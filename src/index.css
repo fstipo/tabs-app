@@ -319,7 +319,7 @@ ul {
 
 @media screen and (min-width: 992px) {
   .jobs-center {
-    width: 90vw;
+    width: 95vw;
     display: grid;
     grid-template-columns: 200px 1fr;
     column-gap: 4rem;
